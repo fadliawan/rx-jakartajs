@@ -1,0 +1,23 @@
+{
+  "name": "todos",
+  "version": "0.0.0",
+  "authors": [
+    "Alan K Fadliawan <alan.k.fadliawan@gmail.com>"
+  ],
+  "description": "rxjs todo demo",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "lodash": "~3.10.1",
+    "react": "~0.13.3",
+    "rxjs": "~4.0.0"
+  }
+}

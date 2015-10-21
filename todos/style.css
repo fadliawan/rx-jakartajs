@@ -1,0 +1,10 @@
+
+
+.todos-container {
+	max-width: 600px;
+  padding-top: 30px;
+}
+
+.todo-add {
+  margin-bottom: 15px;
+}
